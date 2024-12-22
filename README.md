@@ -1,4 +1,4 @@
-# cognorise-infotech-internship-ui-ux-desgining- 
+# ui-ux-desgining- 
 
 
 ##TASK 1 : 
